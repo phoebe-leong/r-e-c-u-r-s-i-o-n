@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void recursion() {
     print("This is recursion.\n");
 
