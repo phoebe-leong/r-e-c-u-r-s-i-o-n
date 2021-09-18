@@ -1,2 +1,1 @@
-function recursion() { console.log("This recursion.\n"); }
-while (true) recursion();
+while (true) console.log("This is layman recursion.\n");
