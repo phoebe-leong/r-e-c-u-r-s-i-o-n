@@ -1,3 +1,2 @@
 #include <stdio.h>
-void recursion() { print("This is recursion.\n"); }
-int main() { while (true) recursion(); }
+int main() { while (true) puts("This is layman recursion"); }
