@@ -1,3 +1,2 @@
 #!/bin/sh
-recursion() { printf "This is recursion.\n" }
-while [ true ] do recursion done
+while [ true ] do printf "This is layman recursion.\n" done
