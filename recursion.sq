@@ -1,0 +1,6 @@
+# For those who don't know, this language is Squire!
+# It's source is located here: https://github.com/sampersand/squire
+
+whilst yea {
+  proclaim("This is layman recursion (AKA repetiton).")
+}
