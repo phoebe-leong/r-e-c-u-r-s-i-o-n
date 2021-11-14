@@ -1,2 +1,2 @@
 #include <stdio.h>
-int main() { while (true) puts("This is layman recursion"); }
+int main() { while (true) puts("This is layman recursion (AKA repetition)"); }
