@@ -1,7 +1,6 @@
 # Written with/for UNIX/POSIX systems
 .SILENT:
 
-
 # Install the Squire compiler
 make:
   git clone https://github.com/sampersand/squire
