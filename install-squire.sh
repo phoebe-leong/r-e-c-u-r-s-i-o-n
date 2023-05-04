@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script clones the Squire repository and installs it's compiler
+# This script clones the Squire repository and installs its compiler
 
 git clone https://github.com/sampersand/squire
 cd squire
